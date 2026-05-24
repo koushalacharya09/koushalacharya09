@@ -2,9 +2,6 @@
 <img src="./banner.jpg" width="100%" alt="Koushal Acharya Banner"/>
 </div>
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3c6e,100:0d1117&height=180&section=header&text=Koushal%20Acharya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Founder%20%C2%B7%20Builder%20%C2%B7%20Operator&descSize=17&descAlignY=58&descColor=8b949e" width="100%"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=580&lines=I+don%27t+just+study+systems.+I+run+them.;Founder+%40+Diksha+Education+%E2%80%94+since+2019;Operations+%C2%B7+Events+%C2%B7+AI-assisted+Development;B.Tech+CSE+%E2%80%94+Poornima+Institute%2C+Jaipur" alt="Typing SVG"/>
 </a>
