@@ -14,7 +14,7 @@
 
 ---
 
-## $ whoami
+## Who I Am
 
 ```yaml
 name        : Koushal Acharya
@@ -134,9 +134,9 @@ Live data aggregator using public APIs. Debounce search, localStorage support, r
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=koushalacharya09&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=koushalacharya09 &show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"/>
 &nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushalacharya09&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushalacharya09 &layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"/>
 
 </div>
 
