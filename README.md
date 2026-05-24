@@ -1,4 +1,6 @@
 <div align="center">
+<img src="./banner.jpg" width="100%" alt="Koushal Acharya Banner"/>
+</div>
 
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3c6e,100:0d1117&height=180&section=header&text=Koushal%20Acharya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Founder%20%C2%B7%20Builder%20%C2%B7%20Operator&descSize=17&descAlignY=58&descColor=8b949e" width="100%"/>
